@@ -1,0 +1,7 @@
+# Settings to prevent build crashes
+exclude:
+  - woodwork/node_modules
+  - node_modules
+  - vendor
+  - .github
+  - .jekyll-cache
