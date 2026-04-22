@@ -1,0 +1,9 @@
+# Prevent Jekyll from scanning heavy dependency folders
+exclude:
+  - woodwork/node_modules
+  - node_modules
+  - vendor
+  - .github
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
